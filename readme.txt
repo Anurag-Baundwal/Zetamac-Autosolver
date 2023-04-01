@@ -1,3 +1,5 @@
+
+
 zetamac_autosolver.py - script completely written in python. fairly speedy - scores around 2000 in 120s. to run it you need to have python installed on your pc. In addtion to that you will need to pip install selenium to get selenium. You'll also need to download chromedriver (probably from https://chromedriver.chromium.org/downloads). Once downloaded, extract it and find chromedriver.exe in the extracted folder. Copy the path to the exe and replace the following line in the zetamac_autosolver.py code - 
 driver_path = "C:\\Users\\Anurag Baundwal\\Downloads\\chromedriver_win32\\chromedriver.exe" (line 16)
 
