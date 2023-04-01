@@ -23,14 +23,21 @@ A collection of scripts to automatically solve arithmetic problems on Zetamac (h
    A fast JavaScript script that runs directly in the browser and scores around 7000 problems in 120 seconds.
 
    Usage:
-   1. Open Zetamac in your browser and click "Start".
-   2. Open Chrome DevTools (Ctrl + Shift + J).
-   3. Paste the JavaScript code from 'solver.js' into the console and hit Enter.
+   - Open Zetamac in your browser and click "Start".
+   - Open Chrome DevTools (Ctrl + Shift + J).
+   - Paste the JavaScript code from 'solver.js' into the console and hit Enter.
 
 3. solver-v2.js
 
    A faster version of 'solver.js' that solves around 20,000 problems in 120 seconds. Follow the same usage instructions as 'solver.js'.
 
+   Usage:
+   Same as solver.js
+
 4. solver_dragon.py
 
-   A Python script with similar functionality to 'solver-v2.js', but can be run from the terminal. Requires the same setup as 'zetamac_autosolver.py'. Usage is the same as for 'zetamac_autosolver.py'.
+   A Python script with similar functionality to 'solver-v2.js', but can be run from the terminal. Requires the same setup as 'zetamac_autosolver.py'. 
+   
+   Usage: 
+   - Same as 'zetamac_autosolver.py'.
+   - Open a terminal and run 'python solver_dragon.py' 
