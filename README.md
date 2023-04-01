@@ -1,8 +1,6 @@
-########################
 Zetamac Autosolver
 
 A collection of scripts to automatically solve arithmetic problems on Zetamac (https://www.zetamac.com/).
-########################
 
 1. zetamac_autosolver.py
 
